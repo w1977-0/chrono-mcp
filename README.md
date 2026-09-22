@@ -6,6 +6,9 @@
 {"mcpServers": {"chrono": {"command": "python3", "args": ["/absolute/path/to/chrono_mcp.py"]}}}
 ```
 
+
+[![CI](https://github.com/w1977-0/chrono-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/w1977-0/chrono-mcp/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](pyproject.toml)
+
 ## Why
 
 - **AI models don't know what time it is.** Training data ends months before you ask; "today" is a guess. This server gives the real clock.
